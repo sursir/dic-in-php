@@ -3,12 +3,12 @@
 
 ## 用法比较简单:
 
-##### dic.php [--help | -h] 查看使用方法 一个demo
+### dic.php [--help | -h] 查看使用方法 一个demo
 
-##### demo:
+### demo:
 dic.php apple
 
-##### result:
+### result:
 
 word: apple
 
